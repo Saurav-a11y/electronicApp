@@ -1,6 +1,4 @@
-import  OurProducts from "../ui/homePage/OurProducts";
-import SpecialOffers from "../ui/homePage/SpecialOffers";
-import Testimonials from "../ui/homePage/Testimonials";
+
 
 export default function Home() {
   return (
