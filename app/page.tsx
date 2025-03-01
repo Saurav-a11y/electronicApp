@@ -1,3 +1,6 @@
+import OurProducts from "../ui/homePage/OurProducts";
+import SpecialOffers from "../ui/homePage/SpecialOffers";
+import Testimonials from "../ui/homePage/Testimonials";
 
 
 export default function Home() {
@@ -15,9 +18,9 @@ export default function Home() {
           </div>
         </div>
       </section>
-      {/* <OurProducts />
+      <OurProducts />
       <SpecialOffers />
-      <Testimonials /> */}
+      <Testimonials />
 
       
     </>
